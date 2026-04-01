@@ -1,6 +1,6 @@
 # To-Do-List Python
 
-Simple Python To-Do List App
+My first python project - Simple Python To-Do List App
 
 Features:
 - Add tasks
